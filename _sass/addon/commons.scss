@@ -789,8 +789,8 @@ $btn-mb: 0.5rem;
         font-weight: 600;
 
         &:hover {
-          background-color: var(--sidebar-hover-bg);
           color: white;
+          // background-color: var(--sidebar-hover-bg);
         }
 
         i {
@@ -891,6 +891,7 @@ $btn-mb: 0.5rem;
 
   .nav-link {
     transition: background-color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
   }
 
   .post-preview {
