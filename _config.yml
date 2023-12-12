@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: 조인준 # the main title
 
-tagline: 테스트용 # it will display as the sub-title
+tagline: 테스트용 블로그 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  링크에 나오는 설명글
+  개발하는 블로그
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -73,7 +73,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/dog.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
